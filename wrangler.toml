@@ -1,0 +1,8 @@
+name = "blockchain"
+type = "javascript"
+
+account_id = "7e91e17110254ae4a698f1f33591d0e0"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-12"
